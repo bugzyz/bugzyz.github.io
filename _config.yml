@@ -30,14 +30,14 @@ social:
      url: pages/getstarted.html 
 #    url: https://twitter.com/SBootstrap
   - title: TakeTheTutorial
-     url:  pages/tutotial.html
+     url: pages/tutotial.html
 #    url: https://github.com/IronSummitMedia/startbootstrap
 #  - title: linkedin
 #    url: 
 
 keepintouch:
   - title: github
-    url:  https://github.com/SJTU-IPADS/wukong
+    url: https://github.com/SJTU-IPADS/wukong
 
 
 theme: jekyll-theme-cayman
