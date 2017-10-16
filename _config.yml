@@ -27,12 +27,10 @@ permalink: pretty
 
 social:
   - title: GetStarted
-  - url: pages/getstarted.markdown 
-  #"#services"
+  - url: pages/getstarted.html 
 #    url: https://twitter.com/SBootstrap
   - title: TakeTheTutorial
-  - url:  pages/tutotial.markdown
-  #"#services"
+  - url:  pages/tutotial.html
 #    url: https://github.com/IronSummitMedia/startbootstrap
 #  - title: linkedin
 #    url: 
