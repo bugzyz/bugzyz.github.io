@@ -27,10 +27,17 @@ permalink: pretty
 
 social:
   - title: GetStarted
+  - url:  "#services"
 #    url: https://twitter.com/SBootstrap
   - title: TakeTheTutorial
+  - url:  "#services"
 #    url: https://github.com/IronSummitMedia/startbootstrap
 #  - title: linkedin
 #    url: 
+
+keepintouch:
+  - title: github
+  - url:  https://github.com/SJTU-IPADS/wukong
+
 
 theme: jekyll-theme-cayman
