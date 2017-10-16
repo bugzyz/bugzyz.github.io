@@ -27,13 +27,9 @@ permalink: pretty
 
 social:
   - title: GetStarted
-  url: pages/getstarted2.html
-#    url: https://twitter.com/SBootstrap
+    url: pages/getstarted2.html
   - title: TakeTheTutorial
-  url: pages/tutotial2.html
-#    url: https://github.com/IronSummitMedia/startbootstrap
-#  - title: linkedin
-#    url: 
+    url: pages/tutotial2.html
 
 keepintouch:
   - title: github
